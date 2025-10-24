@@ -1,4 +1,4 @@
-package Main.java;
+package Main.Andrii;
 
 public class newclass {
 }
